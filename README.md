@@ -25,4 +25,4 @@ Ridge regression had an `R^2` value of 60.578% so the model is a good fit to the
 The business outcome means that Goalzone will be able to change the capacity of specific classes to best optimize member attendace. 
 
 
-$$SSTo = x_{1}^2 + x_{2}^2 + ... + x_{k}^2 - \frac {T^2}{n}$$
+$$r_{1}^2$$
