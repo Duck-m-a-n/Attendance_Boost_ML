@@ -21,7 +21,5 @@ The team will then use the predicted results to optimize the class capacity. The
 
 I used Linear and Ridge regression to predict gym attendace rate. 
 Ridge regression performed slightly better using `RMSE` to compare the models.
-Ridge regression had an `$$R^2$$` value of 60.578% so the model is a good fit to the data and can accurately predict future attendance rate.
+Ridge regression had an $$R^2$$ value of 60.578% so the model is a good fit to the data and can accurately predict future attendance rate.
 The business outcome means that Goalzone will be able to change the capacity of specific classes to best optimize member attendace. 
-
-$$R^2$$
